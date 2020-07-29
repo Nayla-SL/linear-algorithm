@@ -17,7 +17,6 @@ public class Main {
         noteOne = keyboard.nextInt();
         System.out.print("Ingrese la segunda nota: ");
         noteTwo = keyboard.nextInt();
-
         System.out.print("Ingrese la tercer nota: ");
         noteThree = keyboard.nextInt();
 
